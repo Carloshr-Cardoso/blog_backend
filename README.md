@@ -1,6 +1,5 @@
 # BPA Blog project
-
-## Python Django REST API
+ Python Django REST API
 
 ## To locally run the project:
 
